@@ -1,4 +1,4 @@
-# Sodoku-Solver
+# Sudoku-Solver
 
 This is a program to solve a Sudoku puzzle by filling the empty cells.
 
